@@ -19,7 +19,6 @@
 
 - **Portfolio :** [Prochainement en ligne]
 - **E-mail :** [alrashidmohamed44@gmail.com]
-- 
 ---
 
 <p align="center">
