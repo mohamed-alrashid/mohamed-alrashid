@@ -20,7 +20,3 @@
 - **Portfolio :** [Prochainement en ligne]
 - **E-mail :** [alrashidmohamed44@gmail.com]
 ---
-
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
-</p>
