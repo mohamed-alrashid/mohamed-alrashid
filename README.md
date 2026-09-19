@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Salut, moi c'est Mohamed AL-Rashid
 
-<!--
-**mohamed-alrashid/mohamed-alrashid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Développeur Web Junior / Full-Stack
 
-Here are some ideas to get you started:
+Étudiant en 2ème et dernière année de **BES Web Développeur** à l'**EPFC** à Bruxelles 🇧🇪. Passionné par la création d'interfaces et d'applications web modernes, performantes et bien conçues.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Stack Technique & Compétences
+
+- **Langages & Web :** HTML5, CSS3, JavaScript, PHP, Java, SQL
+- **CMS :** WordPress
+- **Design & UI/UX :** Figma, Adobe Illustrator, Adobe Photoshop
+- **Outils & Versioning :** GitHub, VS Code
+
+---
+
+### 📬 Me contacter
+
+- **Portfolio :** [Prochainement en ligne]
+- **E-mail :** [alrashidmohamed44@gmail.com]
+- 
+---
+
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+</p>
