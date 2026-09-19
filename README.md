@@ -11,7 +11,7 @@
 - **Langages & Web :** HTML5, CSS3, JavaScript, PHP, Java, SQL
 - **CMS :** WordPress
 - **Design & UI/UX :** Figma, Adobe Illustrator, Adobe Photoshop
-- **Outils & Versioning :** GitHub, VS Code
+- **Outils & Versioning :** Git, GitHub, VS Code
 
 ---
 
