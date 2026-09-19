@@ -1,6 +1,6 @@
-# 👋 Salut, moi c'est Mohamed AL-Rashid
+# 👋🏻 Salut, moi c'est Mohamed AL-Rashid
 
-### 👨‍💻 Développeur Web Junior / Full-Stack
+### 👨🏻‍💻 Développeur Web Junior / Full-Stack
 
 Étudiant en 2ème et dernière année de **BES Web Développeur** à l'**EPFC** à Bruxelles 🇧🇪. Passionné par la création d'interfaces et d'applications web modernes, performantes et bien conçues.
 
